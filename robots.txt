@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fengyinxin.github.io/sitemap.xml
+Sitemap: https://fengyingxin.github.io/sitemap.xml
